@@ -1,0 +1,1387 @@
+0000	1	16	CHR/SES/2000/eft/chr/ses/1000.seq	fff?fff?
+0001	9	16	CMN/0000/mcard/0000.seq	OK
+0002	5	16	CMN/0000/mcard/0000.seq	YES
+0003	5	16	CMN/0000/mcard/0000.seq	NO
+0004	4	240	CMN/0000/mcard/0000.seq	                                \n                                \nChecking memory card (PS2) in   \nMEMORY CARD slot 1.             \n                                \n                                \n                                
+0005	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nNo memory card (PS2) inserted in\nMEMORY CARD slot 1.             \n                                \n                                \n                                
+0006	4	240	CMN/0000/mcard/0000.seq	                                \nThere is not enough space on the\nmemory card (PS2)               \nin MEMORY CARD slot 1.          \nAt least 92KB of space is needed\nto save game data.              \n                                
+0007	1	240	CMN/0000/mcard/0000.seq	                                \nThere is no Inuyasha Feudal     \nCombat game data on the         \nmemory card (PS2) in            \nMEMORY CARD slot 1.             \n                                \n                                
+0008	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nThe memory card (PS2) in        \nMEMORY CARD slot 1 is           \nunformatted.                    \n                                \n                                
+0009	2	240	CMN/0000/mcard/0000.seq	The memory card (PS2) in        \nMEMORY CARD slot 1 containing   \nInuyasha Feudal Combat game data is\ncorrupted. Delete the corrupted \ndata using the PlayStation~2    \nconsole browser screen.         \n                                
+0010	3	240	CMN/0000/mcard/0000.seq	                                \nMemory card (PS2) error!        \nPlease check the                \nmemory card (PS2) in            \nMEMORY CARD slot 1              \nand try again.                  \n                                
+0011	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nLoad Inuyasha Feudal Combat game data\nfrom the memory card (PS2) in   \nMEMORY CARD slot 1?             \n                                \n                                
+0012	2	240	CMN/0000/mcard/0000.seq	Loading Inuyasha Feudal Combat  \ngame data from memory card (PS2) in  \nMEMORY CARD slot 1. Do not remove\nthe memory card (PS2),          \ncontroller, or RESET/button off \nthe PlayStation~2 console.      \n                                
+0013	1	240	CMN/0000/mcard/0000.seq	                                \nCanceling the load of the       \nInuyasha Feudal Combat game data\nfrom memory card (PS2) in       \nMEMORY CARD slot 1. Is this OK? \n                                \n                                
+0014	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nLoad failed! Please check the   \nmemory card (PS2) in            \nMEMORY CARD slot 1 and try again.\n                                \n                                
+0015	2	240	CMN/0000/mcard/0000.seq	                                \n                                \nLoad from memory card (PS2) in  \nMEMORY CARD slot 1 completed.   \n                                \n                                \n                                
+0016	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nChecking memory card (PS2) in   \nMEMORY CARD slot 2.             \n                                \n                                \n                                
+0017	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nNo memory card (PS2) inserted in\nMEMORY CARD slot 2.             \n                                \n                                \n                                
+0018	1	240	CMN/0000/mcard/0000.seq	                                \nThere is no Inuyasha Feudal     \nCombat game data on the         \nmemory card (PS2) in            \nMEMORY CARD slot 2.             \n                                \n                                
+0019	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nThe memory card (PS2) in        \nMEMORY CARD slot 2 is           \nunformatted.                    \n                                \n                                
+0020	1	240	CMN/0000/mcard/0000.seq	The memory card (PS2) in        \nMEMORY CARD slot 2 containing   \nInuyasha Feudal Combat game data is  \ncorrupted. Delete the corrupted \ndata using the PlayStation~2    \nconsole browser screen.         \n                                
+0021	2	240	CMN/0000/mcard/0000.seq	                                \nMemory card (PS2) error!        \nPlease check the                \nmemory card (PS2) in            \nMEMORY CARD slot 2              \nand try again.                  \n                                
+0022	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nLoad Inuyasha Feudal Combat game data\nfrom the memory card (PS2) in   \nMEMORY CARD slot 2?             \n                                \n                                
+0023	1	240	CMN/0000/mcard/0000.seq	                                \nCanceling the load of the       \nInuyasha Feudal Combat game data\nfrom memory card (PS2) in       \nMEMORY CARD slot 2. Is this OK? \n                                \n                                
+0024	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nLoad failed! Please check the   \nmemory card (PS2) in            \nMEMORY CARD slot 2 and try again.\n                                \n                                
+0025	1	240	CMN/0000/mcard/0000.seq	                                \n                                \nLoad from memory card (PS2) in  \nMEMORY CARD slot 2 completed.   \n                                \n                                \n                                
+0026	1	48	CMN/0000/mura/kakushi.seq	Inuyasha's Chapter is now playable.
+0027	1	48	CMN/0000/mura/kakushi.seq	Miroku/Sango's Chapter is now playable.
+0028	1	48	CMN/0000/mura/kakushi.seq	Sesshomaru's Chapter is now playable.
+0029	1	48	CMN/0000/mura/kakushi.seq	Shippo's Chapter is now playable.
+0030	1	48	CMN/0000/mura/kakushi.seq	Character: Inuyasha is now selectable.
+0031	1	48	CMN/0000/mura/kakushi.seq	Character: Kagome is now selectable.
+0032	1	48	CMN/0000/mura/kakushi.seq	Character: Miroku is now selectable.
+0033	1	48	CMN/0000/mura/kakushi.seq	Character: Sango is now selectable.
+0034	1	48	CMN/0000/mura/kakushi.seq	Character: Shippo is now selectable.
+0035	1	48	CMN/0000/mura/kakushi.seq	Character: Kikyo is now selectable.
+0036	1	48	CMN/0000/mura/kakushi.seq	Character: Koga is now selectable.
+0037	1	48	CMN/0000/mura/kakushi.seq	Character: Sesshomaru is now selectable.
+0038	1	48	CMN/0000/mura/kakushi.seq	Character: Kagura is now selectable.
+0039	1	48	CMN/0000/mura/kakushi.seq	Character: Naraku is now selectable.
+0040	1	48	CMN/0000/mura/kakushi.seq	Character: Kohaku is now selectable.
+0041	1	48	CMN/0000/mura/kakushi.seq	Character: Bankotsu is now selectable.
+0042	1	96	CMN/0000/mura/kakushi.seq	Character: Human Inuyasha is              \n                                  now selectable.
+0043	1	96	CMN/0000/mura/kakushi.seq	Character: Demon Inuyasha is              \n                                  now selectable.
+0044	1	48	CMN/0000/mura/kakushi.seq	Stage: Grasslands is now selectable.
+0045	1	48	CMN/0000/mura/kakushi.seq	Stage: Mystic Forest is now selectable.
+0046	1	48	CMN/0000/mura/kakushi.seq	Stage: Black Pearl is now selectable.
+0047	1	48	CMN/0000/mura/kakushi.seq	Stage: Rocky Area is now selectable.
+0048	1	48	CMN/0000/mura/kakushi.seq	Stage: Ancient Temple is now selectable.
+0049	1	48	CMN/0000/mura/kakushi.seq	Stage: Manor Ruins is now selectable.
+0050	1	48	CMN/0000/mura/kakushi.seq	Stage: Naraku's Castle is now selectable.
+0051	1	48	CMN/0000/mura/kakushi.seq	Difficulty: Easy is now selectable.
+0052	1	48	CMN/0000/mura/kakushi.seq	Difficulty: Normal is now selectable.
+0053	1	48	CMN/0000/mura/kakushi.seq	Difficulty: Hard is now selectable.
+0054	1	96	CMN/0000/mura/kakushi.seq	Difficulty: Challenging is                \n                                  now selectable.
+0055	1	16	GAME/0000/mura/gauge_move.seq	left
+0056	1	16	GAME/0000/mura/pause.seq	Command List
+0057	1	16	GAME/0000/mura/pause.seq	Return to Game
+0058	1	32	GAME/0000/mura/pause.seq	To Character Selection
+0059	1	32	GAME/0000/mura/pause.seq	Back to Title Screen
+0060	1	16	GAME/0000/mura/pause.seq	Return to Map
+0061	1	32	GAME/0000/mura/pause.seq	Opponent player action
+0062	1	32	GAME/0000/mura/pause.seq	Opponent partner action
+0063	1	32	GAME/0000/mura/pause.seq	Ally partner action
+0064	1	16	GAME/0000/mura/pause.seq	No Action
+0065	1	16	GAME/0000/mura/pause.seq	Guard
+0066	2	16	GAME/0000/mura/pause.seq	Attack
+0067	2	16	GAME/0000/mura/pause.seq	Jump
+0068	1	16	GAME/0000/mura/pause.seq	Defense OFF
+0069	1	16	GAME/0000/mura/pause.seq	Control w/2P
+0070	1	16	GAME/0000/mura/pause.seq	CPU Level 1
+0071	1	16	GAME/0000/mura/pause.seq	CPU Level 2
+0072	1	16	GAME/0000/mura/pause.seq	CPU Level 3
+0073	1	16	GAME/0000/mura/pause.seq	CPU Level 4
+0074	4	16	GAME/0000/mura/pause.seq	  Lv.1
+0075	4	16	GAME/0000/mura/pause.seq	  Lv.2
+0076	4	16	GAME/0000/mura/pause.seq	  Lv.3
+0077	1	16	GAME/0000/mura/pause.seq	Form Lv.1
+0078	1	16	GAME/0000/mura/pause.seq	Form Lv.2
+0079	1	16	GAME/0000/mura/pause.seq	Form Lv.3
+0080	1	16	GAME/0000/mura/pause.seq	Recover HP
+0081	1	32	GAME/0000/mura/pause.seq	Spirit Gauge MAX
+0082	2	16	GAME/0000/mura/pause.seq	ON
+0083	2	16	GAME/0000/mura/pause.seq	OFF
+0084	1	16	GAME/0000/mura/pause.seq	Co-Op Attack1
+0085	1	16	GAME/0000/mura/pause.seq	Co-Op Attack2
+0086	1	16	GAME/0000/mura/pause.seq	Co-Op Attack3
+0087	1	16	GAME/0000/mura/pause.seq	Co-Op Attack4
+0088	1	16	GAME/0000/mura/pause.seq	Co-Op Attack5
+0089	1	16	GAME/0000/mura/pause.seq	Co-Op Attack6
+0090	1	16	GAME/0000/mura/pause.seq	   Run
+0091	1	32	GAME/0000/mura/pause.seq	         While jumping
+0092	1	32	GAME/0000/mura/pause.seq	(Button displays-default)
+0093	1	32	GAME/0000/mura/pause.seq	Inuyasha's Command List
+0094	1	32	GAME/0000/mura/pause.seq	Kagome's Command List
+0095	1	32	GAME/0000/mura/pause.seq	Miroku's Command List
+0096	1	32	GAME/0000/mura/pause.seq	Sango's Command List
+0097	1	32	GAME/0000/mura/pause.seq	Shippo's Command List
+0098	1	32	GAME/0000/mura/pause.seq	Kikyo's Command List
+0099	1	32	GAME/0000/mura/pause.seq	Koga's Command List
+0100	1	32	GAME/0000/mura/pause.seq	Sesshomaru's Command List
+0101	1	32	GAME/0000/mura/pause.seq	Kagura's Command List
+0102	1	32	GAME/0000/mura/pause.seq	Naraku's Command List
+0103	1	32	GAME/0000/mura/pause.seq	Kohaku's Command List
+0104	1	32	GAME/0000/mura/pause.seq	Bankotsu's Command List
+0105	1	64	GAME/0000/mura/pause.seq	Human Inuyasha's       \n            Command List
+0106	1	64	GAME/0000/mura/pause.seq	Demon Inuyasha's       \n            Command List
+0107	2	96	GAME/0000/mura/pause.seq	Training Stage! \nContinue defeating \nenemies with limited \nHP! \nDifficulty: Easy 
+0108	2	96	GAME/0000/mura/pause.seq	Training Stage! \nContinue defeating \nenemies with limited \nHP! \nDifficulty: Normal 
+0109	2	96	GAME/0000/mura/pause.seq	Training Stage! \nContinue defeating \nenemies with limited \nHP! \nDifficulty: Hard 
+0110	8	80	GAME/0000/mura/pause.seq	Enemy is always \nguarded! Defeat the \nenemy with a \nThrow attack (   +   ).
+0111	24	64	GAME/0000/mura/pause.seq	Conduct the Partner\nCombination attack\n(   +   ) 3 times!
+0112	12	80	GAME/0000/mura/pause.seq	You can only damage \nthe enemy in the air! \nDefeat the enemy in \nthat state!
+0113	14	32	GAME/0000/mura/pause.seq	Fill up 3 Spirit \nGauges!
+0114	10	48	GAME/0000/mura/pause.seq	Fill up the Spirit \nGauge to the MAX!
+0115	2	64	GAME/0000/mura/pause.seq	Fill up the Spirit \nGauge to the MAX and \ndefeat the enemy!
+0116	18	64	GAME/0000/mura/pause.seq	Destroy all rocks and\ngimmicks within the\nstage!
+0117	16	80	GAME/0000/mura/pause.seq	Destroy all rocks and\ngimmicks within the\nstage while battling\nenemies.
+0118	10	80	GAME/0000/mura/pause.seq	Defeat the enemy after\ndestroying all rocks \nand gimmicks within \nthe stage!
+0119	2	48	GAME/0000/mura/pause.seq	Defeat the Centipede\nDemon without a \npartner.
+0120	10	64	GAME/0000/mura/pause.seq	Defeat the Centipede\nDemon while battling\nenemies.
+0121	16	64	GAME/0000/mura/pause.seq	Defeat the enemy \nwithout being hit by \nthe Centipede Demon.
+0122	16	96	GAME/0000/mura/pause.seq	Your partner is being\ntargeted! Defeat the\nenemy before your\npartner is defeated!
+0123	16	112	GAME/0000/mura/pause.seq	Your partner needs \nhelp! Finish off the \nenemy with your \npartner's attack \nbefore your partner is \ndefeated.
+0124	16	48	GAME/0000/mura/pause.seq	Protect your partner, \nwho is near death!
+0125	24	48	GAME/0000/mura/pause.seq	It's 2 against 1! \nDefeat the enemies!
+0126	18	64	GAME/0000/mura/pause.seq	Enemy HP recovers\ncontinuously! Defeat \nthe enemy anyway!
+0127	28	112	GAME/0000/mura/pause.seq	The final mission! Use \na Unified Ultimate \nAttack to defeat \nthe enemy whose HP \ncontinuously recovers!
+0128	3	64	GAME/0000/mura/pause.seq	Hit the enemy 5 times\nwith a Bow & Arrow\nattack (   or   ).
+0129	3	128	GAME/0000/mura/pause.seq	Hit the enemy 5 times\nwith a Sacred Arrow\nEnhanced with \nSpiritual Power attack \n(hold down    or    and \nrelease).
+0130	4	128	GAME/0000/mura/pause.seq	Hit enemy 5 times \nwith a Sacred Arrow \nEnhanced with \nSpiritual Power (hold \ndown    or    and release) \n& defeat it.
+0131	4	48	GAME/0000/mura/pause.seq	Defeat 1 Defeated\nFleeing Warrior!
+0132	12	48	GAME/0000/mura/pause.seq	Defeat 3 Defeated\nFleeing Warriors!
+0133	4	48	GAME/0000/mura/pause.seq	Defeat 3 Defeated\nFleeing Warriors \nand Kagura!
+0134	6	80	GAME/0000/mura/pause.seq	It's 2 against 1! \nWithout defeating the \nenemy, stay alive until \ntime is up!
+0135	4	80	GAME/0000/mura/pause.seq	You can only damage the\nenemy in the air! \nDefeat the enemy in \nthat state!
+0136	2	80	GAME/0000/mura/pause.seq	You can only damage the \nenemy in the air! \nDefeat the enemy in \nthat state!
+0137	12	80	GAME/0000/mura/pause.seq	Destroy all rocks and\ngimmicks within the\nstage while avoiding\nenemy arrows!
+0138	16	48	GAME/0000/mura/pause.seq	Defeat the Centipede\nDemon without a\npartner.
+0139	6	80	GAME/0000/mura/pause.seq	Without a partner,\ndefeat the Centipede\nDemon while battling \nthe enemy!
+0140	2	80	GAME/0000/mura/pause.seq	Without a partner,\ndefeat the Centipede\nDemon without being \nhit.
+0141	28	64	GAME/0000/mura/pause.seq	Defeat the enemy \nwithout destroying \nthe scaffold.
+0142	14	64	GAME/0000/mura/pause.seq	Damage the scaffold \nand use it to defeat \nthe enemies.
+0143	6	48	GAME/0000/mura/pause.seq	Defeat the enemy \nwithin the time limit!
+0144	16	48	GAME/0000/mura/pause.seq	Defeat the enemy 5 \ntimes consecutively.
+0145	8	48	GAME/0000/mura/pause.seq	Defeat 5 Defeated\nFleeing Warriors!
+0146	8	48	GAME/0000/mura/pause.seq	Defeat 5 Defeated\nFleeing Warriors \nand Kagura!
+0147	2	96	GAME/0000/mura/pause.seq	Destroy all rocks and\ngimmicks within the\nstage by using only the\nHiraikotsu (   )!
+0148	10	80	GAME/0000/mura/pause.seq	Defeat the enemy after \ndestroying all rocks \nand gimmicks within \nthe stage!
+0149	10	48	GAME/0000/mura/pause.seq	Defeat the enemy using\nthe Formation    .
+0150	10	48	GAME/0000/mura/pause.seq	Shoot down 3 arrows \nusing an attack.
+0151	6	48	GAME/0000/mura/pause.seq	Shoot down 5 arrows \nusing an attack.
+0152	6	48	GAME/0000/mura/pause.seq	Shoot down 10 arrows \nwithin the time limit.
+0153	2	64	GAME/0000/mura/pause.seq	Without a partner, \ndefeat the enemy \nwithin the time limit!
+0154	2	64	GAME/0000/mura/pause.seq	Shoot down 3 arrows \nusing Dance of Blades \n(   ).
+0155	2	48	GAME/0000/mura/pause.seq	Shoot down 3 arrows \nwith a Fan Attack!
+0156	2	48	GAME/0000/mura/pause.seq	Shoot down 5 arrows \nwith a Fan Attack!
+0157	2	64	GAME/0000/mura/pause.seq	Conduct 12 Chain Throw\ncombo attacks \n(Run +   )!
+0158	2	80	GAME/0000/mura/pause.seq	While battling, \nconduct 12 Chain Throw \ncombo attacks \n(Run +   )!
+0159	2	64	GAME/0000/mura/pause.seq	Defeat the Centipede\nDemon while battling \nthe enemy!
+0160	2	96	GAME/0000/mura/pause.seq	Shoot down 5 Sacred\nArrows enhanced with \nSpiritual Power using \nthe Kusarigama Attack \n(   ).
+0161	4	64	GAME/0000/mura/pause.seq	Without a partner,\ndefeat the enemy \nwithin the time limit!
+0162	2	48	GAME/0000/mura/pause.seq	Evade the arrows and\nsurvive until the end.
+0163	2	80	GAME/0000/mura/pause.seq	Shoot down 5 Sacred \nArrows enhanced \nwith Spiritual Power \nusing Attacks.
+0164	2	48	GAME/0000/mura/pause.seq	Defeat the enemy 3 \ntimes consecutively.
+0165	2	64	GAME/0000/mura/pause.seq	Enemy HP recovers \ncontinuously! Defeat \nthe enemy anyway!
+0166	1	64	GAME/0000/mura/pause.seq	Attack with Dragon \nHammer 3 times!\n(   while jumping)
+0167	1	64	GAME/0000/mura/pause.seq	Attack with Dragon \nHammer 5 times!\n(   while jumping)
+0168	2	80	GAME/0000/mura/pause.seq	Attack with Dragon \nHammer 5 times \n(   while jumping) and \ndefeat the enemy!
+0169	4	64	GAME/0000/mura/pause.seq	Destroy all rocks and \ngimmicks within the \nstage!
+0170	2	80	GAME/0000/mura/pause.seq	Enemy is always \nguarded! Defeat the \nenemy with a\nThrow attack (   +   ).
+0171	1	48	GAME/1600/mura/story.seq	                              I'm Inuyasha.
+0172	1	96	GAME/1600/mura/story.seq	    50 years ago I was sealed by the priestess\n    Kikyo, protector of the sacred Shikon jewel.
+0173	1	96	GAME/1600/mura/story.seq	      Now I am free of the seal, and journey in\n      pursuit of my archenemy, Naraku.
+0174	1	96	GAME/1600/mura/story.seq	     Along my travels, I've met Miroku, the monk\n     with the "Wind Tunnel" on his hand,
+0175	1	96	GAME/1600/mura/story.seq	     Sango the demon slayer, the young fox demon\n     Shippo, and many other friends.
+0176	1	96	GAME/1600/mura/story.seq	           I have battled with my half-brother, \n           the full-blooded demon Sesshomaru,
+0177	1	112	GAME/1600/mura/story.seq	        Naraku's wind user incarnation Kagura, \n        and many others have battled against me.
+0178	1	48	GAME/1600/mura/story.seq	                  And here beside me is Kagome.
+0179	1	80	GAME/1600/mura/story.seq	   She is Kikyo's reincarnation, and the one who \n   broke my seal.
+0180	1	96	GAME/1600/mura/story.seq	      We argue sometimes, but she's an important \n      friend that I can't live without.
+0181	1	96	GAME/1600/mura/story.seq	    I'm gonna find and defeat my archenemy Naraku, \n    who deceived Kikyo and me 50 years ago!
+0182	1	48	GAME/1600/mura/story.seq	                          Watch out Naraku!
+0183	1	48	GAME/1600/mura/story.seq	                        What is it, Kagome?
+0184	1	64	GAME/1600/mura/story.seq	        I can sense a sacred jewel shard nearby.
+0185	1	48	GAME/1600/mura/story.seq	                      A sacred jewel shard?!
+0186	1	48	GAME/1600/mura/story.seq	                            Hey. Mutt-face.
+0187	1	80	GAME/1600/mura/story.seq	     Looks like you haven't had any luck finding \n     Naraku yet.
+0188	1	48	GAME/1600/mura/story.seq	             Damn it, Koga! What do you want?
+0189	1	64	GAME/1600/mura/story.seq	                    It's none of your business. 
+0190	1	48	GAME/1600/mura/story.seq	                    I came here to see Kagome.
+0191	1	48	GAME/1600/mura/story.seq	                          You scrawny wolf!
+0192	1	80	GAME/1600/mura/story.seq	    Don't you even think about making any passes \n    at Kagome!
+0193	1	64	GAME/1600/mura/story.seq	    Damn it! I'm gonna end this once and for all!
+0194	1	48	GAME/1600/mura/story.seq	                      Are you ready to die?!
+0195	1	48	GAME/1600/mura/story.seq	                    Get lost, ya mangy wolf!
+0196	1	48	GAME/1600/mura/story.seq	                      Inuyasha, over there!
+0197	1	80	GAME/1600/mura/story.seq	       I'm going to take his Shikon jewel shards. \n       They're mine now.
+0198	1	48	GAME/1600/mura/story.seq	                     Kagura! Damn it! Stop!
+0199	1	48	GAME/1600/mura/story.seq	                           Wait, Inuyasha!
+0200	1	48	GAME/1600/mura/story.seq	             Why are you stopping me, Miroku?
+0201	1	112	GAME/1600/mura/story.seq	     You want to chase Kagura, but tonight is the \n     night of the new moon. It's dangerous to go.
+0202	1	96	GAME/1600/mura/story.seq	    I know! But if I don't hurry and go after \n    Kagura, Naraku will get Koga's jewel shards.
+0203	1	112	GAME/1600/mura/story.seq	      Calm down, Inuyasha. Tell me, if you keep \n      chasing after her and she sees you in your 
+0204	1	96	GAME/1600/mura/story.seq	     human form, what's going to happen then? \n     Sorry, but I won't let you go after Kagura!
+0205	1	48	GAME/1600/mura/story.seq	                      It's way too dangerous.
+0206	1	80	GAME/1600/mura/story.seq	          You won't let me?! \n          Damn it! Don't get in my way, Miroku!
+0207	1	48	GAME/1600/mura/story.seq	    Sorry, Miroku! But I'm going after Kagura!
+0208	1	48	GAME/1600/mura/story.seq	                      I found you, Kagura!
+0209	1	48	GAME/1600/mura/story.seq	               Give back Koga's jewel shards!
+0210	1	48	GAME/1600/mura/story.seq	                Inuyasha, be careful! Soon-- 
+0211	1	48	GAME/1600/mura/story.seq	               I know that, save your breath!
+0212	1	48	GAME/1600/mura/story.seq	                     What a nuisance you are.
+0213	1	64	GAME/1600/mura/story.seq	         No matter, I'll put an end to this now!
+0214	1	48	GAME/1600/mura/story.seq	        Kohaku, why don't you help me out here!
+0215	1	64	GAME/1600/mura/story.seq	      All right! I got Koga's jewel shards back!
+0216	1	48	GAME/1600/mura/story.seq	            I recognize that scent... Kikyo?!
+0217	2	48	GAME/1600/mura/story.seq	                                Inuyasha!
+0218	1	48	GAME/1600/mura/story.seq	                           Kikyo, it's you!
+0219	1	48	GAME/1600/mura/story.seq	                               Inuyasha... 
+0220	1	64	GAME/1600/mura/story.seq	   That's right. Tonight is the night of the new \n   moon.
+0221	1	48	GAME/1600/mura/story.seq	         Kikyo, what are you planning on doing?
+0222	1	48	GAME/1600/mura/story.seq	           Naraku is steadily gaining strength.
+0223	1	64	GAME/1600/mura/story.seq	        He must be defeated before it's too late.
+0224	1	48	GAME/1600/mura/story.seq	          You're going to Naraku by yourself?!
+0225	1	48	GAME/1600/mura/story.seq	             Do you plan to stop me, Inuyasha?
+0226	1	64	GAME/1600/mura/story.seq	    Of course! As if I'd let you go to Naraku on \n    your own!
+0227	1	96	GAME/1600/mura/story.seq	                   I must destroy Naraku... \n                   Do not interfere!
+0228	1	64	GAME/1600/mura/story.seq	     Kikyo! I won't let you do this on your own!
+0229	4	48	GAME/1600/mura/story.seq	                                    Ugh!
+0230	1	48	GAME/1600/mura/story.seq	                                   Kikyo!
+0231	1	64	GAME/1600/mura/story.seq	      To be defeated by you in your human form...
+0232	1	96	GAME/1600/mura/story.seq	           It would seem that I do not have the \n           power to defeat Naraku.
+0233	1	80	GAME/1600/mura/story.seq	    Go, Inuyasha! Naraku should be in the castle, \n    just ahead.
+0234	1	48	GAME/1600/mura/story.seq	      Okay, Kikyo. I promise to destroy Naraku!
+0235	1	48	GAME/1600/mura/story.seq	                                 Naraku!
+0236	2	48	GAME/1600/mura/story.seq	                               Inuyasha...
+0237	1	64	GAME/1600/mura/story.seq	          I didn't think you'd make it this far.
+0238	1	48	GAME/1600/mura/story.seq	             Move, Sesshomaru! Naraku's mine!
+0239	1	48	GAME/1600/mura/story.seq	                     He is my prey, Inuyasha.
+0240	1	48	GAME/1600/mura/story.seq	                         Stay out of my way!
+0241	1	48	GAME/1600/mura/story.seq	                          Not on your life!
+0242	1	48	GAME/1600/mura/story.seq	        If you're going to interfere, Inuyasha,
+0243	1	48	GAME/1600/mura/story.seq	              then I'll simply kill you first!
+0244	1	48	GAME/1600/mura/story.seq	        As usual, your listening skills stink!
+0245	1	64	GAME/1600/mura/story.seq	     I guess I'll just have to put an end to you \n     first!
+0246	1	64	GAME/1600/mura/story.seq	    Okay, Naraku! Your miserable life is about \n    to be over!
+0247	1	64	GAME/1600/mura/story.seq	       Do you think you can defeat me so easily?
+0248	1	64	GAME/1600/mura/story.seq	    Naraku! You remember what happened 50 years \n    ago?
+0249	1	64	GAME/1600/mura/story.seq	   I'm gonna end this whole thing, here and now!
+0250	1	80	GAME/1600/mura/story.seq	     You're seriously wrong if you think you're \n     gonna get your way!
+0251	1	96	GAME/1600/mura/story.seq	                   This is the final battle! \n                   Let's do it, Kagome!
+0252	1	48	GAME/1600/mura/story.seq	                                   Hmph!
+0253	1	80	GAME/1600/mura/story.seq	  Isn't it a relief that we've finally destroyed \n  Naraku for good?
+0254	1	48	GAME/1600/mura/story.seq	                                    Yeah.
+0255	1	48	GAME/1600/mura/story.seq	                           Hey, Inuyasha... 
+0256	1	96	GAME/1600/mura/story.seq	   When we first met, you said you wanted to use \n   the Shikon jewel to become a full demon.
+0257	1	96	GAME/1600/mura/story.seq	             Is that still what you want to be? \n             A full-fledged demon, I mean?
+0258	1	48	GAME/1600/mura/story.seq	                              I don't know.
+0259	1	64	GAME/1600/mura/story.seq	     It sorta would be nice to be even stronger, \n     though.
+0260	1	80	GAME/1600/mura/story.seq	     Personally, I like you just the way you are, \n     Inuyasha.
+0261	1	48	GAME/1600/mura/story.seq	                                   What?
+0262	1	96	GAME/1600/mura/story.seq	           But if I stay like this, I might not \n           always be able to protect you.
+0263	1	48	GAME/1600/mura/story.seq	            What was that? I couldn't hear you.
+0264	1	48	GAME/1600/mura/story.seq	          It was nothing! Just drop it, okay?!
+0265	1	48	GAME/1600/mura/story.seq	                          Silly Inuyasha...
+0266	1	112	GAME/1600/mura/story.seq	     You don't need a full-fledged demon's power. \n     So you don't need the Shikon Jewel shards.
+0267	1	96	GAME/1600/mura/story.seq	   The Inuyasha I've come to like is the one that \n   does his best, even as a half-demon.
+0268	1	112	GAME/1600/mura/story.seq	    I'm Miroku. I am on a journey to bring down \n    Naraku, in an effort to end the curse of the
+0269	1	112	GAME/1600/mura/story.seq	    Wind Tunnel hand passed down to me from my \n    grandfather's generation. I refuse to stand 
+0270	1	112	GAME/1600/mura/story.seq	   by and watch as Naraku uses dirty tricks and  \n   plays on people's weaknesses to carry out his 
+0271	1	80	GAME/1600/mura/story.seq	     evil deeds. Sango and I will do whatever it \n     takes to defeat him. 
+0272	1	64	GAME/1600/mura/story.seq	    Or at least, that's what I had planned to do.
+0273	1	64	GAME/1600/mura/story.seq	   I'm gonna finish this, once and for all Koga!
+0274	1	48	GAME/1600/mura/story.seq	      What're you yapping on about, Mutt-face?
+0275	1	80	GAME/1600/mura/story.seq	      Kagome and I love each other, so why don't \n      you just butt out!
+0276	1	48	GAME/1600/mura/story.seq	                         Love each other?!
+0277	1	80	GAME/1600/mura/story.seq	                 Yeah--What--I'll prove it! \n                 you wanna fight?
+0278	1	48	GAME/1600/mura/story.seq	Yeah, bring it on, scrawny wolf!
+0279	1	48	GAME/1600/mura/story.seq	Shut up, loser dog! Quit your yapping! 
+0280	1	48	GAME/1600/mura/story.seq	Run home with your tail between your legs!
+0281	1	32	GAME/1600/mura/story.seq	Just shut up and get lost!
+0282	1	16	GAME/1600/mura/story.seq	Idiot! Idiot!
+0283	1	48	GAME/1600/mura/story.seq	"Idiot, idiot?!" You're the idiot!
+0284	1	96	GAME/1600/mura/story.seq	                  Would you look at that. \n                  Those two are at it again...
+0285	1	48	GAME/1600/mura/story.seq	                         Let them be, Sango.
+0286	1	96	GAME/1600/mura/story.seq	     It's stressful, not being able to find any \n     clues that lead to Naraku.
+0287	1	64	GAME/1600/mura/story.seq	   A little scrap might not hurt, once in a while.
+0288	1	64	GAME/1600/mura/story.seq	       Besides, you have another woman, namely \n       Kikyo!
+0289	1	80	GAME/1600/mura/story.seq	   I won't give Kagome to a womanizer who's just \n   like that monk there!
+0290	1	80	GAME/1600/mura/story.seq	         What?! \n         Don't compare me to that letch Miroku!
+0291	1	80	GAME/1600/mura/story.seq	    Just because I hold my tongue, doesn't mean \n    you can insult me!
+0292	1	80	GAME/1600/mura/story.seq	         That's it! The two of you have crossed \n         the line.
+0293	1	80	GAME/1600/mura/story.seq	    I'm going to fix your attitude, so you won't \n    talk like that anymore.
+0294	1	80	GAME/1600/mura/story.seq	    Listen you two, give up this fighting and be \n    done with it!
+0295	1	48	GAME/1600/mura/story.seq	                 He says, while feeling me up!
+0296	1	80	GAME/1600/mura/story.seq	    You perverted Monk! I'm not gonna take this \n    from you anymore!
+0297	1	48	GAME/1600/mura/story.seq	             That's right, Miroku, you lecher!
+0298	1	96	GAME/1600/mura/story.seq	  Now, wait ladies! This Wind Tunnel is a \n  horrible curse that will one day swallow me up. 
+0299	1	112	GAME/1600/mura/story.seq	       I don't know how long I'll live, It's a \n       terrible burden for one man to bear, but 
+0300	1	96	GAME/1600/mura/story.seq	    before my inevitable demise, it's my duty to \n    find a woman to bear my child.
+0301	1	80	GAME/1600/mura/story.seq	        If you think that's going to excuse your \n         actions,
+0302	1	80	GAME/1600/mura/story.seq	          then you've got another thing coming, \n          Miroku!
+0303	1	80	GAME/1600/mura/story.seq	     C'mon Sango! Let's teach this monk a lesson \n     he'll never forget!
+0304	1	64	GAME/1600/mura/story.seq	      Say no more! Prepare to die, you insolent \n      Monk!
+0305	1	48	GAME/1600/mura/story.seq	           Do you get it now?! Perverted Monk!
+0306	1	48	GAME/1600/mura/story.seq	                             I'm... sorry.
+0307	1	48	GAME/1600/mura/story.seq	           Miroku! I think somebody's nearby!
+0308	1	48	GAME/1600/mura/story.seq	                          It seems that way.
+0309	1	64	GAME/1600/mura/story.seq	     Come out of there! We know you're trying to \n     hide!
+0310	1	48	GAME/1600/mura/story.seq	                                 Surprise.
+0311	1	48	GAME/1600/mura/story.seq	                                    Kagura!
+0312	1	48	GAME/1600/mura/story.seq	                   Kohaku! Why are you here?
+0313	1	96	GAME/1600/mura/story.seq	                A family fight, to the death! \n                Get going, Kohaku!
+0314	1	48	GAME/1600/mura/story.seq	                             Wait, Kohaku!
+0315	1	48	GAME/1600/mura/story.seq	                         After him, Sango!
+0316	1	48	GAME/1600/mura/story.seq	                              Stop, Kohaku!
+0317	1	48	GAME/1600/mura/story.seq	                                   Wait!
+0318	1	48	GAME/1600/mura/story.seq	                I can smell Naraku on this boy.
+0319	1	80	GAME/1600/mura/story.seq	     Don't get in my way, or I'll kill you people \n     too, right here.
+0320	1	112	GAME/1600/mura/story.seq	         That's not going to happen. Sango, we \n         have to do whatever we can to stall him.
+0321	1	48	GAME/1600/mura/story.seq	                I'll take you on, Sesshomaru!
+0322	1	48	GAME/1600/mura/story.seq	                    Miroku, where's Kohaku?
+0323	1	64	GAME/1600/mura/story.seq	   He must've gone to the castle during our fight.
+0324	1	48	GAME/1600/mura/story.seq	                        Let's go after him!
+0325	1	48	GAME/1600/mura/story.seq	               It's all over for you, Naraku!
+0326	1	48	GAME/1600/mura/story.seq	            I'm surprised you made it this far.
+0327	1	80	GAME/1600/mura/story.seq	       I'm going to put an end to my Wind Tunnel \n       curse right here!
+0328	1	80	GAME/1600/mura/story.seq	     Naraku! I'm going to defeat you and take my \n     brother Kohaku back!
+0329	1	48	GAME/1600/mura/story.seq	                           You're through!
+0330	1	48	GAME/1600/mura/story.seq	                 Well, Naraku! It ends here!
+0331	1	48	GAME/1600/mura/story.seq	               You actually think you've won?
+0332	1	64	GAME/1600/mura/story.seq	   I'll show you the destruction I'm capable of!
+0333	1	48	GAME/1600/mura/story.seq	              All right, Sango... This is it!
+0334	1	48	GAME/1600/mura/story.seq	                      Can you keep going?
+0335	1	48	GAME/1600/mura/story.seq	                              Yes, Miroku!
+0336	1	16	GAME/1600/mura/story.seq	Youuuuuuu!
+0337	1	80	GAME/1600/mura/story.seq	               The Wind Tunnel... it actually \n               disappeared.
+0338	1	48	GAME/1600/mura/story.seq	                    We... we did it, Miroku!
+0339	1	64	GAME/1600/mura/story.seq	  I have finally broken my cursed link to Naraku.
+0340	1	80	GAME/1600/mura/story.seq	     So, Sango, now that we've defeated Naraku, \n     what are your plans?
+0341	1	48	GAME/1600/mura/story.seq	                 It's not completely over yet.
+0342	1	48	GAME/1600/mura/story.seq	       You mean Kohaku. I wonder where he went?
+0343	1	48	GAME/1600/mura/story.seq	                                 Kohaku...
+0344	1	48	GAME/1600/mura/story.seq	      Say Sango, why don't we journey together?
+0345	2	48	GAME/1600/mura/story.seq	                                   Huh?!
+0346	1	80	GAME/1600/mura/story.seq	       And that way we can look for your brother \n       Kohaku as we travel.
+0347	1	80	GAME/1600/mura/story.seq	        I'm certain we will eventually be able \n        to find him.
+0348	1	80	GAME/1600/mura/story.seq	            Are you sure you're okay with that, \n            Miroku?
+0349	1	48	GAME/1600/mura/story.seq	                   Yes, of course I am, Sango.
+0350	1	96	GAME/1600/mura/story.seq	     Once we find Kohaku, we can find a place to \n     live together. For all three of us.
+0351	1	48	GAME/1600/mura/story.seq	                      Miroku, do you mean-- 
+0352	1	80	GAME/1600/mura/story.seq	     You have my promise that I will take care of \n     you forever, Sango.
+0353	1	48	GAME/1600/mura/story.seq	               Hey! Get your hands off there!
+0354	1	48	GAME/1600/mura/story.seq	                               You idiot!
+0355	1	48	GAME/1600/mura/story.seq	                                  Gaaah!
+0356	1	80	GAME/1600/mura/story.seq	     The Tetsusaiga can destroy 100 demons in a \n     single sweep.
+0357	1	64	GAME/1600/mura/story.seq	       Father bequeathed that sword to Inuyasha.
+0358	1	96	GAME/1600/mura/story.seq	   And to me he gave the Tenseiga, which can save \n   100 lives with one stroke.
+0359	1	64	GAME/1600/mura/story.seq	    Father, I can not understand your reasoning. 
+0360	1	96	GAME/1600/mura/story.seq	     Why did you leave that inferior half-demon \n     the Tetsusaiga, instead of me?
+0361	1	48	GAME/1600/mura/story.seq	                                 Father...
+0362	3	48	GAME/1600/mura/story.seq	                                    Hmph.
+0363	1	64	GAME/1600/mura/story.seq	       I came to see what that strange scent was.
+0364	1	80	GAME/1600/mura/story.seq	     Such power and swordsmanship. Just who the \n     heck are you, anyway?!
+0365	1	64	GAME/1600/mura/story.seq	   I can't be bothered with insignificant demons. \n   Get lost!
+0366	1	48	GAME/1600/mura/story.seq	                     What did you say to me?
+0367	1	64	GAME/1600/mura/story.seq	    I'm not gonna stand here and be ridiculed by \n    you!
+0368	1	48	GAME/1600/mura/story.seq	     You asked for it! Are you ready to fight? 
+0369	1	48	GAME/1600/mura/story.seq	                  I'll put you in your place.
+0370	1	48	GAME/1600/mura/story.seq	                      So, you are Sesshomaru.
+0371	1	80	GAME/1600/mura/story.seq	   And you're the priestess who sealed Inuyasha \n   50 years ago.
+0372	1	64	GAME/1600/mura/story.seq	   Naraku is plotting to take your demonic power.
+0373	1	48	GAME/1600/mura/story.seq	                                  I see...
+0374	1	80	GAME/1600/mura/story.seq	       Naraku must not be allowed to absorb your \n       demonic power.
+0375	1	48	GAME/1600/mura/story.seq	                         Stay away from him.
+0376	1	96	GAME/1600/mura/story.seq	   Ridiculous. An inferior demon such as Naraku \n   would not be able to defeat me.
+0377	1	64	GAME/1600/mura/story.seq	     I didn't expect that you would listen to me.
+0378	1	48	GAME/1600/mura/story.seq	                      I have no choice, then.
+0379	1	64	GAME/1600/mura/story.seq	     The sacred arrow you used to seal Inuyasha? 
+0380	1	96	GAME/1600/mura/story.seq	      You are mistaken, Priestess, if you think \n      that I am anything like that half-demon.
+0381	1	80	GAME/1600/mura/story.seq	          I will not be defeated by a mere human \n          priestess.
+0382	1	80	GAME/1600/mura/story.seq	        It seems Naraku has another plan up his \n        sleeve!
+0383	1	48	GAME/1600/mura/story.seq	                        Naraku's just up ahead.
+0384	1	96	GAME/1600/mura/story.seq	     To tell you the truth, I'm quite surprised \n     you've come here of your own free will.
+0385	1	96	GAME/1600/mura/story.seq	    Sesshomaru, if you want to bring Naraku down, \n    why don't you team up with me?
+0386	1	48	GAME/1600/mura/story.seq	              You are going to betray Naraku?
+0387	1	96	GAME/1600/mura/story.seq	               I can take out Naraku on my own. \n               I have no need of your help.
+0388	1	48	GAME/1600/mura/story.seq	                       Speak of the devil...
+0389	1	48	GAME/1600/mura/story.seq	                                  Naraku!
+0390	1	48	GAME/1600/mura/story.seq	          So Kagura. You're going to betray me?
+0391	1	80	GAME/1600/mura/story.seq	     Well, if that's the case, then my body will \n     absorb you first.
+0392	1	112	GAME/1600/mura/story.seq	       Naraku, you will know regret as you die \n       the miserable, lesser demon that you are.
+0393	1	96	GAME/1600/mura/story.seq	          You're not good enough to be my enemy. \n          What a waste of time.
+0394	2	48	GAME/1600/mura/story.seq	                             Sesshomaru...
+0395	1	48	GAME/1600/mura/story.seq	                      It's you! Sesshomaru!
+0396	1	48	GAME/1600/mura/story.seq	           Don't tell me you defeated Naraku?!
+0397	1	48	GAME/1600/mura/story.seq	                                 Inuyasha.
+0398	1	48	GAME/1600/mura/story.seq	                       So, you've shown up... 
+0399	1	96	GAME/1600/mura/story.seq	            I think it's about time we find out \n            why father entrusted someone like 
+0400	1	48	GAME/1600/mura/story.seq	                     you with the Tetsusaiga.
+0401	1	48	GAME/1600/mura/story.seq	                           The Tetsusaiga!
+0402	1	48	GAME/1600/mura/story.seq	         Wait, Sesshomaru! It's not over yet!
+0403	1	48	GAME/1600/mura/story.seq	                        It's a waste of time.
+0404	1	64	GAME/1600/mura/story.seq	   I'm not giving up! There's no way I'm losing!
+0405	2	48	GAME/1600/mura/story.seq	                               Ghaaaaa!!!
+0406	1	48	GAME/1600/mura/story.seq	                              I-Inuyasha!
+0407	1	48	GAME/1600/mura/story.seq	            So he's finally stopped moving...
+0408	1	48	GAME/1600/mura/story.seq	            Are you planning to kill Inuyasha?
+0409	1	48	GAME/1600/mura/story.seq	               There would be no point to that.
+0410	1	112	GAME/1600/mura/story.seq	    Tell Inuyasha this. The next time I see him, \n    if his heart is taken over by demon blood,
+0411	1	48	GAME/1600/mura/story.seq	                 I will kill him without fail.
+0412	1	96	GAME/1600/mura/story.seq	      Father... I now see why you entrusted the \n      Tetsusaiga to Inuyasha...
+0413	1	48	GAME/1600/mura/story.seq	                               Finally....
+0414	1	48	GAME/1600/mura/story.seq	                  Finally, my time has come!
+0415	1	64	GAME/1600/mura/story.seq	    With my adorable good looks and powerful Fox \n    Magic...
+0416	1	64	GAME/1600/mura/story.seq	  I'm the most dependable of Inuyasha's friends!
+0417	1	64	GAME/1600/mura/story.seq	   The great demon Shippo is the real hero here!
+0418	1	64	GAME/1600/mura/story.seq	   Shut up, Shippo! What are you going on about?
+0419	1	48	GAME/1600/mura/story.seq	                   So you're here, Inuyasha!
+0420	1	48	GAME/1600/mura/story.seq	                     This time I am the star!
+0421	1	48	GAME/1600/mura/story.seq	                            You stay back!
+0422	1	48	GAME/1600/mura/story.seq	       Hah! You? A real hero? I don't think so!
+0423	1	48	GAME/1600/mura/story.seq	                                  What?!
+0424	1	96	GAME/1600/mura/story.seq	    Face the facts, Shippo. You gotta be strong \n    like me to talk like that! 
+0425	1	48	GAME/1600/mura/story.seq	                        And you ain't strong.
+0426	1	48	GAME/1600/mura/story.seq	          You're always making me look stupid!
+0427	1	48	GAME/1600/mura/story.seq	            You won't get away with it anymore!
+0428	1	80	GAME/1600/mura/story.seq	        Inuyasha, we'll see which one of us is \n        stronger!
+0429	1	80	GAME/1600/mura/story.seq	        Heh heh, Since I'm the real hero here... \n        I can't lose!
+0430	1	80	GAME/1600/mura/story.seq	      Even the "mighty" Inuyasha doesn't stand a \n      chance against me!
+0431	1	48	GAME/1600/mura/story.seq	                      All right! Watch out! 
+0432	1	112	GAME/1600/mura/story.seq	     I'm gonna beat everyone that makes a fool \n     of me, so no one forgets how powerful I am!
+0433	1	96	GAME/1600/mura/story.seq	  You're that... Hey, you're that demon raccoon \n  dog! The one that hangs out with Inuyasha!
+0434	1	48	GAME/1600/mura/story.seq	                                I'm a fox!
+0435	1	112	GAME/1600/mura/story.seq	  You're always bragging, just 'cause you're one \n  of the Wolf-Demon clan. I've never liked you
+0436	1	96	GAME/1600/mura/story.seq	      wolves very much. I'm gonna defeat you for \n      myself and for all Fox-Demons.
+0437	1	48	GAME/1600/mura/story.seq	               You'd better prepare yourself!
+0438	1	48	GAME/1600/mura/story.seq	                                Hilarious.
+0439	1	80	GAME/1600/mura/story.seq	   You're hilarious. You think a little raccoon \n   dog like you can defeat me?
+0440	1	48	GAME/1600/mura/story.seq	                   Hey, I told ya! I'm a fox!
+0441	1	48	GAME/1600/mura/story.seq	            I feel unbelievably strong today!
+0442	1	48	GAME/1600/mura/story.seq	                      Who wants to be next?!
+0443	1	48	GAME/1600/mura/story.seq	                        I think I can win.
+0444	1	80	GAME/1600/mura/story.seq	       I did it; I won! I even beat Sesshomaru! \n       Oh yeah!
+0445	1	64	GAME/1600/mura/story.seq	     I'm the strongest demon in all of the land!
+0446	1	80	GAME/1600/mura/story.seq	      I can handle it all, even without Inuyasha \n      around! 
+0447	1	64	GAME/1600/mura/story.seq	        I wonder what Shippo's muttering in his \n        sleep?
+0448	1	80	GAME/1600/mura/story.seq	  Come on, Inuyasha. He's sleeping so peacefully. \n  Just let him be.
+0449	1	48	GAME/1600/mura/story.seq	                    I'm the strongest of all.
+0450	1	16	GAME/1800/mura/chrsel.seq	Time Limit
+0451	1	16	GAME/1800/mura/chrsel.seq	Handicap
+0452	1	16	GAME/1800/mura/chrsel.seq	Points
+0453	1	16	GAME/1800/mura/chrsel.seq	Begin!
+0454	1	16	GAME/1800/mura/chrsel.seq	infi
+0455	1	32	GAME/1800/mura/chrsel.seq	Select Battle Type
+0456	1	32	GAME/1800/mura/chrsel.seq	Select Partner \nPreference
+0457	1	32	GAME/1800/mura/chrsel.seq	Select Partner Preference
+0458	1	16	GAME/1800/mura/chrsel.seq	With Partner
+0459	1	16	GAME/1800/mura/chrsel.seq	W/O Partner
+0460	1	16	GAME/1800/mura/chrsel.seq	Select Stage
+0461	2	16	GAME/1800/mura/chrsel.seq	Player
+0462	2	16	GAME/1800/mura/chrsel.seq	Partner
+0463	2	16	GAME/1800/mura/chrsel.seq	ATK
+0464	2	16	GAME/1800/mura/chrsel.seq	DF
+0465	2	16	GAME/1800/mura/chrsel.seq	HP
+0466	2	16	GAME/1800/mura/chrsel.seq	SPD
+0467	2	16	GAME/1800/mura/chrsel.seq	Match
+0468	2	16	GAME/1800/mura/chrsel.seq	Cleared
+0469	2	16	GAME/1800/mura/chrsel.seq	LV
+0470	4	16	GAME/1800/mura/chrsel.seq	Next
+0471	2	16	GAME/1800/mura/chrsel.seq	Return
+0472	3	16	GAME/1800/mura/chrsel.seq	Cancel
+0473	2	16	GAME/1800/mura/chrsel.seq	Previous
+0474	2	32	GAME/1800/mura/chrsel.seq	Select file to load
+0475	1	32	GAME/1800/mura/chrsel.seq	Load Development Data
+0476	1	32	GAME/1800/mura/chrsel.seq	Select \nFormation Type
+0477	1	16	GAME/1800/mura/chrsel.seq	Manual
+0478	1	16	GAME/1800/mura/chrsel.seq	Automatic
+0479	1	112	GAME/1800/mura/main_menu.seq	Different characters    \nwill become the main    \ncharacter of the story  \nand engage in battle.  
+0480	1	80	GAME/1800/mura/main_menu.seq	Try a stage that\ncontains certain\nconditions to clear\nthe stage.
+0481	1	32	GAME/1800/mura/main_menu.seq	Select a character\nand fight.
+0482	1	32	GAME/1800/mura/main_menu.seq	Practice techniques.
+0483	1	32	GAME/1800/mura/main_menu.seq	Change settings.
+0484	1	32	GAME/1800/mura/main_menu.seq	Back to Title Screen.
+0485	1	80	GAME/1800/mura/main_menu.seq	Inuyasha will be the\nmain character and\nwill battle alongside\nKagome.
+0486	1	64	GAME/1800/mura/main_menu.seq	Miroku or Sango\nwill battle as the\nmain character.
+0487	1	48	GAME/1800/mura/main_menu.seq	Sesshomaru will\nbattle as the\nmain character.
+0488	1	48	GAME/1800/mura/main_menu.seq	Shippo will battle\nas the main character.
+0489	1	48	GAME/1800/mura/main_menu.seq	Change game\ndifficulty settings.
+0490	1	16	GAME/1800/mura/main_menu.seq	Game Level
+0491	1	16	GAME/1800/mura/main_menu.seq	Easy
+0492	1	16	GAME/1800/mura/main_menu.seq	Normal
+0493	1	16	GAME/1800/mura/main_menu.seq	Hard
+0494	1	16	GAME/1800/mura/main_menu.seq	Challenging
+0495	1	32	GAME/1800/mura/main_menu.seq	Change sound\nsettings.
+0496	1	16	GAME/1800/mura/main_menu.seq	Sound Setting
+0497	1	16	GAME/1800/mura/main_menu.seq	Music Vol
+0498	1	16	GAME/1800/mura/main_menu.seq	SE Vol
+0499	1	16	GAME/1800/mura/main_menu.seq	Stereo / Mono
+0500	1	16	GAME/1800/mura/main_menu.seq	Loud
+0501	1	16	GAME/1800/mura/main_menu.seq	Medium
+0502	1	16	GAME/1800/mura/main_menu.seq	Soft
+0503	1	16	GAME/1800/mura/main_menu.seq	No Sound
+0504	1	16	GAME/1800/mura/main_menu.seq	Stereo
+0505	1	16	GAME/1800/mura/main_menu.seq	Mono
+0506	1	16	GAME/1800/mura/main_menu.seq	Save/load data.
+0507	1	16	GAME/1800/mura/main_menu.seq	Save/Load
+0508	1	16	GAME/1800/mura/main_menu.seq	Save
+0509	1	16	GAME/1800/mura/main_menu.seq	Load
+0510	1	32	GAME/1800/mura/main_menu.seq	Change button\nconfigurations.
+0511	1	16	GAME/1800/mura/main_menu.seq	Player1
+0512	1	16	GAME/1800/mura/main_menu.seq	Player2
+0513	1	16	GAME/1800/mura/main_menu.seq	Type A
+0514	1	16	GAME/1800/mura/main_menu.seq	Type B
+0515	1	16	GAME/1800/mura/main_menu.seq	Type C
+0516	1	16	GAME/1800/mura/main_menu.seq	Type D
+0517	1	16	GAME/1800/mura/main_menu.seq	WEAK Atk
+0518	1	16	GAME/1800/mura/main_menu.seq	PWR Atk
+0519	1	16	GAME/1800/mura/main_menu.seq	Defend
+0520	1	16	GAME/1800/mura/main_menu.seq	SP Tech
+0521	1	16	GAME/1800/mura/main_menu.seq	Form
+0522	1	48	GAME/1800/mura/main_menu.seq	Alter formation w/ \nright analog stick
+0523	1	16	GAME/1800/mura/main_menu.seq	Target
+0524	1	16	GAME/1800/mura/main_menu.seq	Vibration:
+0525	1	32	GAME/1800/mura/main_menu.seq	Initialize settings.
+0526	1	32	GAME/1800/mura/main_menu.seq	Return to Default Settings. OK?
+0527	2	16	GAME/1800/mura/main_menu.seq	Yes
+0528	2	16	GAME/1800/mura/main_menu.seq	No
+0529	1	32	GAME/1800/mura/main_menu.seq	Back to\nMode Selection Screen
+0530	1	16	GAME/1800/mura/mission.seq	Status Screen
+0531	1	16	GAME/1800/mura/mission.seq	Erase data
+0532	1	48	GAME/1800/mura/mission.seq	This data will be erased. \nIs this OK? 
+0533	1	16	GAME/1800/mura/mission.seq	Data erased. 
+0534	1	64	GAME/1800/mura/mission.seq	Hit the enemy 5 times \nwith a Bow & Arrow\nattack (   or   ).
+0535	1	128	GAME/1800/mura/mission.seq	Hit the enemy 5 times \nwith a Sacred Arrow\nEnhanced with \nSpiritual Power attack \n(hold down    or    and \nrelease).
+0536	1	64	GAME/1800/mura/mission.seq	Attack with Dragon \nHammer 3 times! \n(   while jumping)
+0537	1	64	GAME/1800/mura/mission.seq	Attack with Dragon \nHammer 5 times! \n(   while jumping)
+0538	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 2
+0539	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 3
+0540	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 4
+0541	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 5
+0542	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 6
+0543	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 7
+0544	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 8
+0545	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 9
+0546	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 10
+0547	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 11
+0548	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 12
+0549	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 13
+0550	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 14
+0551	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 15
+0552	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 16
+0553	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 17
+0554	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 18
+0555	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 19
+0556	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 20
+0557	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 21
+0558	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 22
+0559	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 23
+0560	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 24
+0561	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 25
+0562	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 26
+0563	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 27
+0564	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 28
+0565	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 29
+0566	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 30
+0567	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 31
+0568	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 32
+0569	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 33
+0570	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 34
+0571	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 35
+0572	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 36
+0573	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 37
+0574	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 38
+0575	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 39
+0576	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 40
+0577	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 41
+0578	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 42
+0579	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 43
+0580	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 44
+0581	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 45
+0582	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 46
+0583	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 47
+0584	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 48
+0585	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 49
+0586	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 50
+0587	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 51
+0588	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 52
+0589	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 53
+0590	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 54
+0591	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 55
+0592	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 56
+0593	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 57
+0594	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 58
+0595	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 59
+0596	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 60
+0597	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 61
+0598	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 62
+0599	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 63
+0600	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 64
+0601	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 65
+0602	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 66
+0603	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 67
+0604	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 68
+0605	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 69
+0606	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 70
+0607	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 71
+0608	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 72
+0609	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 73
+0610	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 74
+0611	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 75
+0612	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 76
+0613	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 77
+0614	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 78
+0615	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 79
+0616	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 80
+0617	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 81
+0618	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 82
+0619	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 83
+0620	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 84
+0621	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 85
+0622	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 86
+0623	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 87
+0624	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 88
+0625	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 89
+0626	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 90
+0627	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 91
+0628	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 92
+0629	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 93
+0630	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 94
+0631	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 95
+0632	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 96
+0633	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 97
+0634	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 98
+0635	1	32	GAME/1800/mura/mission.seq	Player's ATK increased by 99
+0636	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 1
+0637	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 2
+0638	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 3
+0639	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 4
+0640	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 5
+0641	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 6
+0642	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 7
+0643	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 8
+0644	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 9
+0645	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 10
+0646	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 11
+0647	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 12
+0648	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 13
+0649	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 14
+0650	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 15
+0651	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 16
+0652	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 17
+0653	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 18
+0654	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 19
+0655	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 20
+0656	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 21
+0657	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 22
+0658	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 23
+0659	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 24
+0660	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 25
+0661	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 26
+0662	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 27
+0663	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 28
+0664	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 29
+0665	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 30
+0666	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 31
+0667	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 32
+0668	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 33
+0669	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 34
+0670	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 35
+0671	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 36
+0672	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 37
+0673	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 38
+0674	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 39
+0675	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 40
+0676	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 41
+0677	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 42
+0678	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 43
+0679	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 44
+0680	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 45
+0681	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 46
+0682	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 47
+0683	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 48
+0684	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 49
+0685	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 50
+0686	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 51
+0687	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 52
+0688	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 53
+0689	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 54
+0690	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 55
+0691	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 56
+0692	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 57
+0693	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 58
+0694	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 59
+0695	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 60
+0696	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 61
+0697	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 62
+0698	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 63
+0699	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 64
+0700	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 65
+0701	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 66
+0702	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 67
+0703	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 68
+0704	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 69
+0705	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 70
+0706	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 71
+0707	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 72
+0708	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 73
+0709	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 74
+0710	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 75
+0711	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 76
+0712	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 77
+0713	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 78
+0714	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 79
+0715	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 80
+0716	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 81
+0717	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 82
+0718	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 83
+0719	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 84
+0720	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 85
+0721	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 86
+0722	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 87
+0723	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 88
+0724	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 89
+0725	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 90
+0726	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 91
+0727	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 92
+0728	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 93
+0729	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 94
+0730	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 95
+0731	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 96
+0732	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 97
+0733	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 98
+0734	1	32	GAME/1800/mura/mission.seq	Player's DF increased by 99
+0735	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 1
+0736	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 2
+0737	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 3
+0738	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 4
+0739	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 5
+0740	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 6
+0741	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 7
+0742	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 8
+0743	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 9
+0744	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 10
+0745	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 11
+0746	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 12
+0747	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 13
+0748	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 14
+0749	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 15
+0750	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 16
+0751	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 17
+0752	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 18
+0753	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 19
+0754	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 20
+0755	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 21
+0756	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 22
+0757	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 23
+0758	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 24
+0759	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 25
+0760	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 26
+0761	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 27
+0762	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 28
+0763	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 29
+0764	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 30
+0765	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 31
+0766	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 32
+0767	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 33
+0768	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 34
+0769	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 35
+0770	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 36
+0771	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 37
+0772	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 38
+0773	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 39
+0774	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 40
+0775	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 41
+0776	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 42
+0777	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 43
+0778	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 44
+0779	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 45
+0780	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 46
+0781	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 47
+0782	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 48
+0783	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 49
+0784	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 50
+0785	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 51
+0786	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 52
+0787	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 53
+0788	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 54
+0789	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 55
+0790	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 56
+0791	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 57
+0792	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 58
+0793	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 59
+0794	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 60
+0795	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 61
+0796	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 62
+0797	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 63
+0798	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 64
+0799	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 65
+0800	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 66
+0801	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 67
+0802	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 68
+0803	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 69
+0804	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 70
+0805	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 71
+0806	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 72
+0807	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 73
+0808	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 74
+0809	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 75
+0810	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 76
+0811	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 77
+0812	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 78
+0813	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 79
+0814	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 80
+0815	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 81
+0816	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 82
+0817	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 83
+0818	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 84
+0819	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 85
+0820	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 86
+0821	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 87
+0822	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 88
+0823	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 89
+0824	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 90
+0825	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 91
+0826	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 92
+0827	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 93
+0828	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 94
+0829	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 95
+0830	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 96
+0831	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 97
+0832	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 98
+0833	1	32	GAME/1800/mura/mission.seq	Player's HP increased by 99
+0834	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 1
+0835	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 2
+0836	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 3
+0837	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 4
+0838	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 5
+0839	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 6
+0840	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 7
+0841	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 8
+0842	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 9
+0843	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 10
+0844	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 11
+0845	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 12
+0846	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 13
+0847	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 14
+0848	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 15
+0849	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 16
+0850	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 17
+0851	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 18
+0852	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 19
+0853	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 20
+0854	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 21
+0855	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 22
+0856	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 23
+0857	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 24
+0858	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 25
+0859	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 26
+0860	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 27
+0861	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 28
+0862	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 29
+0863	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 30
+0864	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 31
+0865	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 32
+0866	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 33
+0867	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 34
+0868	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 35
+0869	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 36
+0870	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 37
+0871	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 38
+0872	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 39
+0873	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 40
+0874	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 41
+0875	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 42
+0876	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 43
+0877	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 44
+0878	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 45
+0879	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 46
+0880	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 47
+0881	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 48
+0882	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 49
+0883	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 50
+0884	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 51
+0885	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 52
+0886	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 53
+0887	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 54
+0888	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 55
+0889	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 56
+0890	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 57
+0891	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 58
+0892	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 59
+0893	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 60
+0894	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 61
+0895	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 62
+0896	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 63
+0897	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 64
+0898	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 65
+0899	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 66
+0900	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 67
+0901	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 68
+0902	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 69
+0903	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 70
+0904	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 71
+0905	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 72
+0906	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 73
+0907	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 74
+0908	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 75
+0909	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 76
+0910	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 77
+0911	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 78
+0912	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 79
+0913	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 80
+0914	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 81
+0915	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 82
+0916	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 83
+0917	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 84
+0918	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 85
+0919	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 86
+0920	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 87
+0921	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 88
+0922	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 89
+0923	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 90
+0924	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 91
+0925	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 92
+0926	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 93
+0927	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 94
+0928	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 95
+0929	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 96
+0930	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 97
+0931	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 98
+0932	1	32	GAME/1800/mura/mission.seq	Player's SPD increased by 99
+0933	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 1
+0934	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 2
+0935	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 3
+0936	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 4
+0937	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 5
+0938	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 6
+0939	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 7
+0940	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 8
+0941	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 9
+0942	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 10
+0943	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 11
+0944	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 12
+0945	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 13
+0946	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 14
+0947	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 15
+0948	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 16
+0949	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 17
+0950	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 18
+0951	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 19
+0952	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 20
+0953	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 21
+0954	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 22
+0955	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 23
+0956	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 24
+0957	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 25
+0958	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 26
+0959	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 27
+0960	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 28
+0961	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 29
+0962	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 30
+0963	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 31
+0964	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 32
+0965	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 33
+0966	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 34
+0967	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 35
+0968	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 36
+0969	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 37
+0970	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 38
+0971	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 39
+0972	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 40
+0973	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 41
+0974	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 42
+0975	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 43
+0976	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 44
+0977	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 45
+0978	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 46
+0979	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 47
+0980	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 48
+0981	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 49
+0982	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 50
+0983	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 51
+0984	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 52
+0985	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 53
+0986	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 54
+0987	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 55
+0988	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 56
+0989	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 57
+0990	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 58
+0991	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 59
+0992	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 60
+0993	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 61
+0994	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 62
+0995	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 63
+0996	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 64
+0997	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 65
+0998	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 66
+0999	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 67
+1000	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 68
+1001	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 69
+1002	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 70
+1003	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 71
+1004	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 72
+1005	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 73
+1006	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 74
+1007	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 75
+1008	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 76
+1009	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 77
+1010	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 78
+1011	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 79
+1012	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 80
+1013	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 81
+1014	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 82
+1015	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 83
+1016	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 84
+1017	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 85
+1018	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 86
+1019	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 87
+1020	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 88
+1021	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 89
+1022	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 90
+1023	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 91
+1024	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 92
+1025	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 93
+1026	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 94
+1027	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 95
+1028	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 96
+1029	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 97
+1030	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 98
+1031	1	32	GAME/1800/mura/mission.seq	Partner's ATK increased by 99
+1032	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 1
+1033	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 2
+1034	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 3
+1035	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 4
+1036	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 5
+1037	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 6
+1038	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 7
+1039	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 8
+1040	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 9
+1041	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 10
+1042	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 11
+1043	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 12
+1044	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 13
+1045	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 14
+1046	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 15
+1047	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 16
+1048	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 17
+1049	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 18
+1050	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 19
+1051	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 20
+1052	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 21
+1053	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 22
+1054	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 23
+1055	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 24
+1056	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 25
+1057	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 26
+1058	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 27
+1059	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 28
+1060	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 29
+1061	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 30
+1062	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 31
+1063	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 32
+1064	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 33
+1065	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 34
+1066	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 35
+1067	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 36
+1068	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 37
+1069	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 38
+1070	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 39
+1071	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 40
+1072	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 41
+1073	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 42
+1074	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 43
+1075	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 44
+1076	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 45
+1077	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 46
+1078	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 47
+1079	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 48
+1080	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 49
+1081	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 50
+1082	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 51
+1083	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 52
+1084	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 53
+1085	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 54
+1086	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 55
+1087	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 56
+1088	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 57
+1089	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 58
+1090	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 59
+1091	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 60
+1092	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 61
+1093	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 62
+1094	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 63
+1095	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 64
+1096	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 65
+1097	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 66
+1098	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 67
+1099	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 68
+1100	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 69
+1101	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 70
+1102	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 71
+1103	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 72
+1104	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 73
+1105	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 74
+1106	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 75
+1107	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 76
+1108	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 77
+1109	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 78
+1110	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 79
+1111	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 80
+1112	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 81
+1113	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 82
+1114	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 83
+1115	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 84
+1116	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 85
+1117	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 86
+1118	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 87
+1119	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 88
+1120	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 89
+1121	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 90
+1122	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 91
+1123	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 92
+1124	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 93
+1125	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 94
+1126	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 95
+1127	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 96
+1128	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 97
+1129	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 98
+1130	1	32	GAME/1800/mura/mission.seq	Partner's DF increased by 99
+1131	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 1
+1132	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 2
+1133	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 3
+1134	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 4
+1135	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 5
+1136	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 6
+1137	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 7
+1138	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 8
+1139	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 9
+1140	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 10
+1141	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 11
+1142	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 12
+1143	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 13
+1144	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 14
+1145	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 15
+1146	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 16
+1147	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 17
+1148	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 18
+1149	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 19
+1150	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 20
+1151	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 21
+1152	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 22
+1153	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 23
+1154	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 24
+1155	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 25
+1156	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 26
+1157	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 27
+1158	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 28
+1159	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 29
+1160	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 30
+1161	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 31
+1162	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 32
+1163	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 33
+1164	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 34
+1165	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 35
+1166	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 36
+1167	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 37
+1168	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 38
+1169	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 39
+1170	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 40
+1171	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 41
+1172	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 42
+1173	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 43
+1174	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 44
+1175	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 45
+1176	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 46
+1177	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 47
+1178	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 48
+1179	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 49
+1180	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 50
+1181	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 51
+1182	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 52
+1183	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 53
+1184	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 54
+1185	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 55
+1186	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 56
+1187	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 57
+1188	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 58
+1189	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 59
+1190	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 60
+1191	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 61
+1192	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 62
+1193	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 63
+1194	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 64
+1195	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 65
+1196	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 66
+1197	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 67
+1198	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 68
+1199	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 69
+1200	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 70
+1201	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 71
+1202	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 72
+1203	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 73
+1204	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 74
+1205	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 75
+1206	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 76
+1207	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 77
+1208	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 78
+1209	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 79
+1210	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 80
+1211	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 81
+1212	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 82
+1213	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 83
+1214	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 84
+1215	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 85
+1216	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 86
+1217	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 87
+1218	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 88
+1219	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 89
+1220	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 90
+1221	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 91
+1222	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 92
+1223	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 93
+1224	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 94
+1225	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 95
+1226	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 96
+1227	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 97
+1228	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 98
+1229	1	32	GAME/1800/mura/mission.seq	Partner's HP increased by 99
+1230	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 1
+1231	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 2
+1232	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 3
+1233	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 4
+1234	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 5
+1235	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 6
+1236	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 7
+1237	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 8
+1238	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 9
+1239	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 10
+1240	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 11
+1241	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 12
+1242	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 13
+1243	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 14
+1244	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 15
+1245	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 16
+1246	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 17
+1247	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 18
+1248	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 19
+1249	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 20
+1250	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 21
+1251	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 22
+1252	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 23
+1253	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 24
+1254	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 25
+1255	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 26
+1256	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 27
+1257	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 28
+1258	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 29
+1259	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 30
+1260	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 31
+1261	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 32
+1262	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 33
+1263	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 34
+1264	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 35
+1265	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 36
+1266	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 37
+1267	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 38
+1268	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 39
+1269	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 40
+1270	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 41
+1271	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 42
+1272	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 43
+1273	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 44
+1274	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 45
+1275	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 46
+1276	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 47
+1277	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 48
+1278	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 49
+1279	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 50
+1280	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 51
+1281	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 52
+1282	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 53
+1283	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 54
+1284	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 55
+1285	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 56
+1286	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 57
+1287	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 58
+1288	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 59
+1289	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 60
+1290	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 61
+1291	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 62
+1292	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 63
+1293	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 64
+1294	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 65
+1295	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 66
+1296	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 67
+1297	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 68
+1298	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 69
+1299	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 70
+1300	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 71
+1301	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 72
+1302	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 73
+1303	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 74
+1304	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 75
+1305	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 76
+1306	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 77
+1307	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 78
+1308	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 79
+1309	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 80
+1310	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 81
+1311	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 82
+1312	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 83
+1313	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 84
+1314	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 85
+1315	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 86
+1316	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 87
+1317	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 88
+1318	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 89
+1319	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 90
+1320	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 91
+1321	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 92
+1322	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 93
+1323	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 94
+1324	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 95
+1325	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 96
+1326	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 97
+1327	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 98
+1328	1	32	GAME/1800/mura/mission.seq	Partner's SPD increased by 99
+1329	4	32	GAME/1800/mura/mission.seq	LV increased by 1
+1330	4	32	GAME/1800/mura/mission.seq	LV increased by 2
+1331	4	32	GAME/1800/mura/mission.seq	LV increased by 3
+1332	5	1872	GAME/2100/mura/credit.seq	                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n    PUBLISHED BY Bandai Games Inc.                           \n                                                             \n
+1333	5	1872	GAME/2100/mura/credit.seq	                          Executive Producer                 \n                                           Ken Nakata        \n                                                             \n                          Chief Producer                     \n                                           Naruo Uchida      \n                                                             \n                          Producer                           \n                                           Atsushi Minowa    \n                                                             \n                          Co-Producer                        \n                                           Rika Maruya       \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n                                                             \n
+1334	5	1952	GAME/2100/mura/credit.seq	                                                                \n                                                                \n                                                                \n                                                                \n    PRODUCED BY Bandai Co., Ltd.                                \n                                                                \n                          Executive Producer                    \n                                           Shin Unozawa         \n                                           Takashi Shouji       \n                                                                \n                          Chief Producer                        \n                                           Hirotaka Watanabe    \n                                           Daisuke Uchiyama     \n                                                                \n                          Producer                              \n                                           Nobuyuki Tanaka      \n                                                                \n                          Localization Staff                    \n                                           Seiko Fujisawa       \n                                           Yasuhiro Nishimura   \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n
+1335	5	1952	GAME/2100/mura/credit.seq	                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n    ADAPTATION & RECORDING                                      \n                                                                \n                          Production Manager                    \n                                           Diana Gage (Ocean)   \n                                                                \n                          Senior Production Coordinator         \n                                  Geoffrey A. Rosen (Ocean)     \n                                                                \n                          Production Assistant                  \n                                           Nick Mann (Ocean)    \n                                                                \n                          English Script Adaptation             \n                                           Kathleen Westlake    \n                                                                \n                          English Translation                   \n                                           Rachel Stump         \n                                                                \n
+1336	5	1936	GAME/2100/mura/credit.seq	                          Voice Director                       \n                                           Marc Matsumoto      \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                          Featuring the Voices of:             \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n                                                               \n
+1337	5	1808	GAME/2100/mura/credit.seq	                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                          Recording Engineers              \n                                           Chris Cleator   \n                                           Mike Iske       \n                                                           \n                          Dialogue Editor                  \n                                           Ross Clarke     \n                                                           \n                          Video Post-Production            \n                                           Elisa Chee      \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n                                                           \n
+1338	5	1952	GAME/2100/mura/credit.seq	                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n                                                                \n    GAME DEVELOPMENT EIGHTING Co., Ltd                          \n                                                                \n                          Project Director                      \n                                           Takatsugu Nagayama   \n                                                                \n                          Main Programmer                       \n                                           Jumpei Isshiki       \n                                                                \n                          Programmers                           \n                                           Ichirou Nishida      \n                                           Yuki Tagawa          \n                                           Toshikazu Sahoda     \n                                           Satoshi Inagi        \n                                           Fumio Sato           \n                                           Yuta Muramatsu       \n                                                                \n                          Chief Designer                        \n                                           Ikuo Matsumura       \n                                                                \n                          Designers                             \n
+1339	5	1984	GAME/2100/mura/credit.seq	                                           Shiori Nagai          \n                                           Shin-ichi Kamohara    \n                                           Tetsu Ozaki           \n                                           Shin-ichi Ohnishi     \n                                           Masaharu Tokutake     \n                                           Shouji Mizumoto       \n                                           Asami Koguchi         \n                                           Hirotaka Tanikawa     \n                                           Hiroshi Tahara        \n                                           Makoto Suzuki         \n                                           Hirokazu Matsushima   \n                                           Tetsuya Tomotoshi     \n                                           Rumiko Shibata        \n                                           Yutaka Aihara         \n                                           Keitaro Oda           \n                                                                 \n                          Sound Director                         \n                                           Masahiro Yuge         \n                                                                 \n                          Music Composed by                      \n                                           Ken-ichi Koyano       \n                                                                 \n                          Sound Engineer                         \n                                           Atsuhiro Motoyama     \n                                                                 \n                          Program Integration                    \n                                           Yuichi Ochiai         \n                                                                 \n                          Design Integration                     \n                                           Mitsuakira Tatsuta    \n
+1340	5	1904	GAME/2100/mura/credit.seq	                                                              \n                          Integration Advisor                 \n                                           Yuichi Toyama      \n                                                              \n                          Produced by                         \n                                           Masato Toyoshima   \n                                                              \n                          Supervising Director                \n                                           Tomonori Fujisawa  \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n                                                              \n
+1341	5	64	GAME/2100/mura/credit.seq	                            Inuyasha      Richard Ian Cox    \n
+1342	5	64	GAME/2100/mura/credit.seq	                               Kagome      Moneca Stori      \n
+1343	5	64	GAME/2100/mura/credit.seq	                               Miroku      Kirby Morrow      \n
+1344	5	64	GAME/2100/mura/credit.seq	                                 Sango      Kelly Sheridan   \n
+1345	5	64	GAME/2100/mura/credit.seq	                               Shippo      Jillian Michaels  \n
+1346	5	64	GAME/2100/mura/credit.seq	                                 Kikyo      Willow Johnson   \n
+1347	5	64	GAME/2100/mura/credit.seq	                        Sesshomaru      David Kaye           \n
+1348	5	64	GAME/2100/mura/credit.seq	                               Naraku      Paul Dobson       \n
+1349	5	64	GAME/2100/mura/credit.seq	                               Kagura      Janyse Jaud       \n
+1350	5	64	GAME/2100/mura/credit.seq	                                  Koga      Scott McNeil     \n
+1351	5	64	GAME/2100/mura/credit.seq	                               Kohaku      Danny McKinnon    \n
+1352	5	64	GAME/2100/mura/credit.seq	                           Bankotsu      Matt Hill           \n
+1353	1	240	MCARD/0000/mcard/1000.seq	The memory card (PS2) in        \nMEMORY CARD slot 1 is not       \nformatted. Before creating new  \nInuyasha Feudal Combat game data,\nyou will have to format the     \nmemory card (PS2). Start game   \nanyway?                         
+1354	1	240	MCARD/0000/mcard/1000.seq	The memory card (PS2) in        \nMEMORY CARD slot 1 containing   \nInuyasha Feudal Combat game data is\ncorrupted. Delete the corrupted \ndata using the PlayStation~2    \nconsole browser screen.         \nStart the game anyway?          
+1355	2	240	MCARD/0000/mcard/1000.seq	                                \nError accessing the             \nmemory card (PS2) in            \nMEMORY CARD slot 1.             \nStart the game anyway?          \n                                \n                                
+1356	1	240	MCARD/0000/mcard/1000.seq	Loading Inuyasha Feudal Combat  \ngame data from the              \nmemory card (PS2) in            \nMEMORY CARD slot 1. Do not remove\nthe memory card (PS2),          \ncontroller, or RESET/button off \nthe PlayStation~2 console.      
+1357	1	240	MCARD/0000/mcard/2000.seq	                                \n                                \nNo memory card (PS2) inserted in\nMEMORY CARD slot 1. Please      \ninsert a memory card (PS2).     \n                                \n                                
+1358	2	240	MCARD/0000/mcard/2000.seq	                                \nTo save Inuyasha Feudal Combat  \ngame data, a memory card (PS2) with at\nleast 92KB of space needs to be \ninserted into MEMORY CARD slot 1.\n                                \n                                
+1359	2	240	MCARD/0000/mcard/2000.seq	                                \nOK to create new Inuyasha Feudal\nCombat game data on             \nmemory card (PS2) in            \nMEMORY CARD slot 1?             \n                                \n                                
+1360	2	240	MCARD/0000/mcard/2000.seq	                                \n                                \nOverwrite Inuyasha Feudal Combat\ngame data on memory card (PS2)  \nin MEMORY CARD slot 1?          \n                                \n                                
+1361	2	240	MCARD/0000/mcard/2000.seq	Saving Inuyasha Feudal Combat   \ngame data onto the memory card (PS2)\nin MEMORY CARD slot 1.          \nDo not remove the memory card (PS2),\ncontroller, or RESET/button off \nthe PlayStation~2 console.      \n                              
+1362	2	240	MCARD/0000/mcard/2000.seq	                                \n                                \nCancel saving onto              \nmemory card (PS2) in            \nMEMORY CARD slot 1?             \n                                \n                                
+1363	2	240	MCARD/0000/mcard/2000.seq	                                \nSave failed on memory card (PS2)\non MEMORY CARD slot 1. Please   \ncheck the memory card (PS2)     \nand try again.                  \n                                \n                                
+1364	1	240	MCARD/0000/mcard/2000.seq	                                \nSave completed on               \nmemory card (PS2) in            \nMEMORY CARD slot 1.             \n                                \n                                \n                                
+1365	2	240	MCARD/0000/mcard/2000.seq	                                \nAn error occurred while saving  \nto the memory card (PS2) in     \nMEMORY CARD slot 1. Please check\nthe memory card (PS2)           \nand try again.                  \n                                
+1366	1	240	MCARD/0000/mcard/2000.seq	                                \nThe memory card (PS2) in        \nMEMORY CARD slot 1 is not       \nformatted. Do you want to format\nit now?                         \n                                \n                                
+1367	2	240	MCARD/0000/mcard/2000.seq	                                \nFormatting memory card (PS2) in \nMEMORY CARD slot 1.             \nDo not remove the memory card (PS2),\ncontroller, or RESET/button off \nthe PlayStation~2 console.      \n                                
+1368	2	240	MCARD/0000/mcard/2000.seq	                                \nFormatting of the               \nmemory card (PS2) in            \nMEMORY CARD slot 1 failed.      \nPlease check the                \nmemory card (PS2) and try again.\n                                
+1369	2	240	MCARD/0000/mcard/2000.seq	                                \n                                \nFormatting of the               \nmemory card (PS2) in            \nMEMORY CARD slot 1 is complete. \n                                \n                                
+1370	1	48	MCARD/0000/mcard/2000.seq	Unformat?                       
+1371	1	48	MCARD/0000/mcard/2000.seq	Unformatting.                   
+1372	1	48	MCARD/0000/mcard/2000.seq	Unformatting failed.            
+1373	1	48	MCARD/0000/mcard/2000.seq	Unformatting complete.          
+1374	1	240	MCARD/0000/mcard/3000.seq	                                \n                                \nNo memory card (PS2) inserted in\nMEMORY CARD slot 1. Please insert\na memory card (PS2).            \n                                \n                                
+1375	1	240	MCARD/0000/mcard/3000.seq	                                \n                                \nMemory card (PS2) error!        \nPlease check the                \nmemory card (PS2) in            \nMEMORY CARD slot 1              \nand try again.                  
+1376	1	240	MCARD/0000/mcard/3000.seq	The Inuyasha Feudal Combat game \ndata on the memory card (PS2) in\nMEMORY CARD slot 1 is corrupted.\nDelete corrupted data using the \nPlayStation~2 console browser   \nscreen.                         \n                                
+1377	1	240	MCARD/0000/mcard/3000.seq	                                \nThe memory card (PS2) in        \nMEMORY CARD slot 1 has been     \nchanged.                        \nOverwrite Inuyasha Feudal Combat\ngame data?                      \n                                
+1378	1	240	MCARD/0000/mcard/3000.seq	                                \n                                \nSave completed on               \nmemory card (PS2) in            \nMEMORY CARD slot 1.             \n                                \n                                
+1379	1	240	MCARD/0000/mcard/3000.seq	                                \nThe memory card (PS2) in        \nMEMORY CARD slot 1 is not       \nformatted.                      \nDo you want to format it now?   \n                                \n                                
+1380	1	32	STORY/004/0000/mura/mir_or_san.seq	Select Character
+1381	1	16	STORY/004/0000/mura/mir_or_san.seq	MIROKU
+1382	1	16	STORY/004/0000/mura/mir_or_san.seq	SANGO
+1383	1	240	MCARD/0000/mcard/1000.seq	There is no memory card (PS2)   \ninserted in MEMORY CARD slot 1. \nA memory card (PS2) with at     \nleast 92KB is needed to save    \ndata. Do you want to start \nthe game anyway?                \n                                
+1384	1	240	MCARD/0000/mcard/1000.seq	There is not enough space on the\nmemory card (PS2)               \nin MEMORY CARD slot 1.          \nAt least 92KB of space is needed\nto save game data.              \nDo you want to start the game   \nanyway?                         
+1385	1	240	MCARD/0000/mcard/1000.seq	There is no Inuyasha Feudal     \nCombat game data on the         \nmemory card (PS2) in            \nMEMORY CARD slot 1.             \nDo you want to start the game   \nanyway?                         \n                                
+1386	1	240	MCARD/0000/mcard/1000.seq	Auto-load of Inuyasha Feudal    \nCombat game data from           \nmemory card (PS2) in            \nMEMORY CARD slot 1 failed.      \nDo you want to start the game   \nanyway?                         \n                                

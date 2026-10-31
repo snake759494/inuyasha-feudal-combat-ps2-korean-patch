@@ -1,0 +1,24 @@
+{
+ "version": "v1.0",
+ "date": "2026-10-31",
+ "game": "Inuyasha: Feudal Combat (USA) / SLUS-21193 / PS2 (DVD, ISO)",
+ "asset": "Inuyasha_Feudal_Combat_PS2_KO_v1.0.xdelta",
+ "asset_size": 13621282,
+ "asset_sha256": "505b93012ec2a6a3df6318b0cf18b38107d44ca632280194ed0fa49a9fa44ef9",
+ "xdelta_options": "xdelta3 -e -0 -S none -A (no compression, no secondary compression, no application header)",
+ "source_iso_size": 1249804288,
+ "source_iso_md5": "f9067a554eaa911ae4277c0b0fa2eefd",
+ "source_iso_sha1": "2aebdaa8ab47167cbc0b319b88e8a52626e610d8",
+ "source_iso_sha256": "7e339cf657a0ae72be5bf0147cb1e251b996b25036ed934d86397f67a5d8ad98",
+ "output_iso_size": 1249804288,
+ "output_iso_md5": "632d933da34edf3cc1e28654c1e606a7",
+ "output_iso_sha1": "39466fd3b282687271ff5a75a76bd700c4cb6ec0",
+ "output_iso_sha256": "269e5839653e4963a2d224e43fc4902bafe5233d101d317ddfaaf2bf5978a0f9",
+ "widescreen": {
+  "SLUS-21193_64836393.pnach": {
+   "for": "한글판 v1.0 (CRC 64836393)",
+   "size": 549,
+   "sha256": "6ab58e38a9d3d84103586ec96fb214bc1ddaee497cb5357273bb155527e194e5"
+  }
+ }
+}
